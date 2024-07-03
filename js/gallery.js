@@ -8,6 +8,14 @@ let currentlySelected = 0;
 prevBtn.addEventListener("click", function () {
   // make .active class to the previous image
   // remove .active class from the current image
+  galleryImages[currentlySelected].classList.remove("active");
+  currentlySelected--;
+  galleryImages[currentlySelected].classList.add("active");
+  nextBtn.disabled = false;
+
+  if (currentlySelected === 0) {
+    prevBtn.disabled = true;
+  }
 });
 
 // when you click next button, the next image will be shown but it should stop at the last image
