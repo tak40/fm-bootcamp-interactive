@@ -1,4 +1,4 @@
-# Frontend Master Bootcamp Gallery Project
+# Frontend Master Bootcamp: Gallery Project
 
 ## Introduction
 
@@ -7,6 +7,10 @@ This project is part 1 of the "Using JavaScript in Websites" course from the Fro
 In part 2, we implement Swiper and GSAP libraries to enhance this gallery. You can find Part 2 [here](https://github.com/tak40/fm-bootcamp-interactive-gallery2).
 
 ![Screenshot](assets/images/screenshot.png)
+
+## Live Site
+
+You can view the live version of the project [here](https://frontend-masters-image-gallery.netlify.app/)
 
 ## Features
 
