@@ -2,20 +2,11 @@
 
 ## Introduction
 
-This project is part of the Frontend Masters Bootcamp. It focuses on creating an interactive image gallery using HTML, CSS, and JavaScript. This was a great way to revisit the basics of JavaScript along with HTML and CSS.
+This project is part 1 of the "Using JavaScript in Websites" course from the Frontend Masters Bootcamp. It focuses on creating an interactive image gallery using HTML, CSS, and JavaScript. This was a great way to revisit the basics of JavaScript along with HTML and CSS.
 
-![Screenshot](assets/images/bh.png)
+In part 2, we implement Swiper and GSAP libraries to enhance this gallery. You can find Part 2 [here](https://github.com/tak40/fm-bootcamp-interactive-gallery2).
 
-## Project Structure
-
-- **assets/images/**: Contains the images used in the gallery.
-  - **1.jpg** to **12.jpg**: Images for the gallery.
-  - **bh.png**: Screenshot used in this README.
-- **css/**: Contains the stylesheet for the gallery.
-  - **styles.css**: CSS file for styling the gallery.
-- **js/**: Contains the JavaScript file for the gallery functionality.
-  - **gallery.js**: JavaScript file for handling the gallery interactions.
-- **index.html**: The main HTML file for the gallery.
+![Screenshot](assets/images/screenshot.png)
 
 ## Features
 
@@ -32,14 +23,14 @@ While working on this project, I revisited and found several concepts interestin
 
 ## Acknowledgements
 
-This project is part of the Frontend Masters Bootcamp, specifically focusing on HTML, CSS, and JavaScript lessons. Special thanks to the instructors for providing valuable lessons and resources. Learn more at [Frontend Masters Bootcamp](https://frontendmasters.com/bootcamp/) and [Introduction to JavaScript](https://frontendmasters.com/bootcamp/introduction-javascript/).
+This project is part of the Frontend Masters Bootcamp, specifically focusing on HTML, CSS, and JavaScript lessons. Special thanks to the instructors for providing valuable lessons and resources. Learn more at [Frontend Masters Bootcamp](https://frontendmasters.com/bootcamp/) and [Using JavaScript in Websites](https://frontendmasters.com/bootcamp/javascript-in-websites/).
 
 ## Getting Started
 
 To get started with this project, clone the repository and open the `index.html` file in your browser.
 
 ```sh
-git clone https://github.com/yourusername/FM-BOOTCAMP-GALLERY.git
-cd FM-BOOTCAMP-GALLERY
+git clone https://github.com/tak40/fm-bootcamp-interactive.git
+cd fm-bootcamp-interactive
 open index.html
 ```
